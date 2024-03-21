@@ -1,0 +1,3 @@
+- Fazer um sistema de venda;
+- Cliente vai tentar comprar no crédito - só será aprovada se não for maior que R$200,00 para cartão 456 (rede Card) / cartão 123 (Cielo) até R$100,00;
+- Se aprovado, informar o produto, valor, cliente e o modelo da impressora (Epson ou HP) que irá imprimir o comprovante.
